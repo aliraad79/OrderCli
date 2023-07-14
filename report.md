@@ -12,6 +12,7 @@
 # confilict
 
 # محافظت از main
+در قسمت تنظیمات github در قسمت branches ما قسمت Require Pull request before merging را فعال میکنیم و ان را create میکنیم.
 
 # merge by pull request
 
