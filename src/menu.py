@@ -25,3 +25,6 @@ def go_to_menu() -> MenuItem:
     print(f"You Choose {user_food.name}")
 
     return user_food
+def exit() -> MenuItem:
+    printItems("exit")
+    return
