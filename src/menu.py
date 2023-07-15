@@ -3,10 +3,11 @@ from enum import Enum
 
 
 class MenuItem(Enum):
-    Pela = 1
-    Dizi = 2
-    Chicken = 3
-    Steak = 4
+    Pela = 0
+    Dizi = 1
+    Chicken = 2
+    Steak = 3
+    Pizaa = 4
 
     def get_available_items():
         return [
